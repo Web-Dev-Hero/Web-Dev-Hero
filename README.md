@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nikhil-pal-807a89aa/](https://www.linkedin.com/in/nikhil-pal-807a89aa/)
 
-- 💬 Ask me about - Html  ,Css  ,JavaScript  ,Node.js  ,Mongodb
+- 💬 Ask me about - Html   ,Css   ,JavaScript   ,Node.js   ,Mongodb
 
 - 📫 How to reach me **nikhilpaul566@gmail.com**
 
