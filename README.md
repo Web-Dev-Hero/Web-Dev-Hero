@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Nikhil Pal</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img src="https://t4.ftcdn.net/jpg/05/90/45/35/360_F_590453560_ugMuPncnGYB6XnJqmC8xiPQx4eg3jmMD.jpg" width="450px" align="right" alt="">
-- 🌱 I’m currently learning **DSA,WEB DEVELOPMENT**
+- 🌱 I’m currently learning -DSA , WEB DEVELOPMENT
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/nikhil-pal-807a89aa/](https://www.linkedin.com/in/nikhil-pal-807a89aa/)
 
-- 💬 Ask me about - **Html, Css, JavaScript ,Node.js, Mongodb**
+- 💬 Ask me about - Html, Css, JavaScript ,Node.js, Mongodb
 
 - 📫 How to reach me **nikhilpaul566@gmail.com**
 
