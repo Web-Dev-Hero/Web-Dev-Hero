@@ -1,4 +1,4 @@
-![logo](https://github.com/Web-Dev-Hero/Web-Dev-Hero/blob/main/github-header-image%20(3).png)
+![logo](https://github.com/Web-Dev-Hero/Web-Dev-Hero/blob/main/github-header-image%20(3).png) 
 
 <h1 align="center">Hi 👋, I'm Nikhil Pal</h1>
 <h3 align="center">A passionate web developer from India</h3>
